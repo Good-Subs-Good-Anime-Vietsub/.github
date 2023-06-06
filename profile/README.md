@@ -1,4 +1,4 @@
-# **Good Subs Good Animeu**
+# **Good Subs Good Anime**
 GSGA Vietsub - Anime hay, phụ đề cũng phải tốt
 
 Phụ đề Tiếng Việt cho ``một vài`` bộ Anime được cho là ``hay``
@@ -15,23 +15,23 @@ Vậy có những ``tiêu chí`` nào để đảm bảo được ``sát ý``, x
 
 # **Tiêu Chí**
 ## **Hàm ý của câu thoại**
-- <span style="color:cyan">Ý hiểu</span>
+- Ý hiểu
 
     - Họ nói sao mình dịch vậy, sát được từ, sát được ngữ pháp nữa thì càng tốt. 
     - Đảm bảo câu cú dễ hiểu, không cố đấm ăn xôi dịch kiểu chả ai hiểu.
     - Đảm bảo tính nhất quán, ví dụ như các câu cửa miệng của nhân vật, hay các từ/câu chủ chốt được dùng nhiều lần.
     - Thoại bình thường, dịch bình thường. Thoại hoa mỹ, dịch hoa mỹ. Thoại tục ngữ thành ngữ, dịch thành ngữ tục ngữ, Thoại thơ, dịch thơ... Tất nhiên, cũng không nên cố đấm ăn xôi, hãy tùy cơ ứng biến.
     - . . .
-- <span style="color:cyan">Sắc thái</span> (đây là điểm mà người dịch thường nhầm lẫn)
+- Sắc thái (đây là điểm mà người dịch thường nhầm lẫn)
     - Không nên dựa toàn bộ vào ngữ cảnh để đoán sắc thái... Ví dụ, nhân vật dùng từ lịch sự với giọng quát tháo, dịch cũng phải lịch sự. Ngược lại cũng vậy.
     - Không nên dựa toàn bộ vào tính cách của nhân vật để lựa chọn từ.
     - Nói chung, bản thân từ ngữ có sắc thái riêng của nó, nên cân nhắc để dịch phù hợp.
     - . . .
-- <span style="color:cyan">Ngắt nghỉ</span>
+- Ngắt nghỉ
     - Dịch anime, tức là dịch từ Tiếng Nhật, xét về văn phong thông thường, Tiếng Nhật có hơi ngược lại so với  Tiếng Việt ta một chút. Tiếng Nhật đảo ``đối tượng`` lên ``trước``, ``động từ`` xuống ``cuối``. Nôm na là như này:
-        - Tiếng Việt: <span style="color:Khaki">Tớ</span> <span style="color:lightcoral">đang viết</span> <span style="color:lightgreen">phần giới thiệu</span>.
-        - Tiếng Nhật: <span style="color:Khaki">Tớ</span> <span style="color:lightgreen">phần giới thiệu</span> <span style="color:lightcoral">đang viết</span>.
-    - Nếu câu thoại ngắt ở chỗ <span style="color:Khaki">Tớ</span> <span style="color:lightgreen">phần giới thiệu</span>—<span style="color:lightcoral">đang viết</span>, thì không nên dịch thành <span style="color:Khaki">Tớ</span> <span style="color:lightcoral">đang viết</span>—<span style="color:lightgreen">phần giới thiệu</span>, mà hãy biến tấu đi kiểu <span style="color:lightgreen">Phần giới thiệu</span> <span style="color:Khaki">tớ</span>—<span style="color:lightcoral">đang viết</span>
+        - Tiếng Việt: Tớ đang viết phần giới thiệu.
+        - Tiếng Nhật: Tớ phần giới thiệu đang viết.
+    - Nếu câu thoại ngắt ở chỗ *Tớ phần giới thiệu — đang viết*, thì không nên dịch thành *Tớ đang viết — phần giới thiệu*, mà hãy biến tấu đi kiểu *Phần giới thiệu tớ — đang viết*
     - Tất nhiên, cũng không nên quá gò bó, được thì được, không được thì thôi.
     - Đại ý là cố dịch đúng theo ngắt nghỉ.
 ## **Editing**
