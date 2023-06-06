@@ -1,7 +1,9 @@
 # **Good Subs Good Animeu**
-GSGA Vietsub) - Anime hay, phụ đề cũng phải tốt.
+GSGA Vietsub - Anime hay, phụ đề cũng phải tốt
 
-Phụ đề Tiếng Việt cho ``một vài`` bộ Anime được cho là ``hay``, đạo diễn [Alfred Hitchcock](https://www.britannica.com/biography/Alfred-Hitchcock) từng nói thế này:
+Phụ đề Tiếng Việt cho ``một vài`` bộ Anime được cho là ``hay``
+
+Đạo diễn [Alfred Hitchcock](https://www.britannica.com/biography/Alfred-Hitchcock) từng nói thế này:
 
 >A book is translated — how well do we know, I don't know. The risk is, in translating even a film — what they call "dubbing", you know — is that there's liable to be a loss...
 > 
