@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Good-Subs-Good-Anime-Vietsub/.github/main/src/GSGA-banner-animated.gif)
+
 # **Giới Thiệu**
 
 Good Subs Good Anime (GSGA Vietsub) - Anime hay, phụ đề cũng phải tốt.
